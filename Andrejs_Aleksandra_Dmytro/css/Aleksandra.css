@@ -1,0 +1,277 @@
+body {
+	background: #f1e6d1;
+	margin: 0;
+	font-family: Arial;
+}
+li {
+	margin-left: 20px;
+}
+h3 {
+	margin-left: 20px;
+}
+h2 {
+	margin-left: 20px;
+}
+.text123 {
+	margin-left: 20px;
+}
+#link123 {
+	color: white;
+}
+#trophy {
+	max-width: 300px;
+	max-height: 300px;
+	height: 100%;
+	height: 30vw;
+	width: 100%;
+	width: 30vw;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.aleksandra123 {
+	margin-left: 20px;
+}
+#baner {
+	max-width: 1903px;
+	width: 100%;
+}
+#square_header {
+	max-width: 1903px;
+	width: 100%;
+	height: 200px;
+	background: #302a77;
+}
+#square_section {
+	position: absolute;
+	max-width: 1903px;
+	width: 100%;
+	height:100px;
+	background: #5457a6;
+}
+#square_main {
+	max-width: 1700px;
+	width: 90vw;
+	height: 1900px;
+	background: #eebb55;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	
+}
+#square_footer {
+	max-width: 1903px;
+	width: 100%;
+	height: 300px;
+	background: #5457a6;
+	
+}
+
+#s1vsklogo {
+	margin-left: 20px;
+	max-width: 300px;
+	width: 100%;
+	width: 30vw;
+
+}
+#facebook {
+	max-width: 75px;
+	width: 100%;
+	float: right;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 30px;
+	margin-right: 30px;
+	width: 4vw;
+	width: 10vh;
+
+}
+#blogger {
+	max-width: 75px;
+	width: 100%;
+	float: right;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 30px;
+	width: 4vw;
+	width: 10vh;
+
+}
+#twitter {
+	max-width: 75px;
+	width: 100%;
+	float: right;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 4vw;
+	width: 10vh;
+
+}
+.section1 {
+	border: 1px solid #5457a6;
+	text-align: center;
+}
+.partner {
+	margin-left: 50px;
+	float: left;
+	font-size: 40px;
+	color: #eebb55;
+}
+.info {
+	font-size: 40px;
+	color: #eebb55;
+	top: 20px;
+}
+.adres {
+	font-size: 25px;
+	color: #eebb55;
+	position: relative;
+	bottom: 50px;
+
+}
+.epasts {
+	font-size: 25px;
+	color: #eebb55;
+	position: relative;
+	bottom: 50px;
+	right: 50px;
+}
+.numbers {
+	float: right;
+	font-size: 40px;
+	color: #eebb55;
+	margin-right: 50px;
+}
+.direktore {
+	float: right;
+	font-size: 25px;
+	color: #eebb55;
+	margin-right: 5px;
+	position: relative;
+	bottom: 50px;
+}
+.dezurants {
+	float: right;
+	font-size: 25px;
+	color: #eebb55;
+	margin-right: 130px;
+	position: relative;
+	bottom: 50px;
+}
+#ministrija_logo {
+	margin-right: 20px;
+	max-width: 112px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+
+}
+#soma_logo {
+	margin-right: 20px;
+	max-width: 75px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+}
+#uzdevumi_logo {
+	max-width: 75px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+}
+#salaspils_logo {
+	margin-right: 20px;
+	max-width: 75px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+}
+#eklase_logo {
+	margin-right: 20px;
+	max-width: 75px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+}
+#digital_logo {
+	max-width: 112px;
+	width: 100%;
+	float: left;
+	width: 10vw;
+}
+
+.sakums {
+	font-size: 50px;	
+	color: #eebb55;
+	float: left;
+	position: relative;
+	left: 100px;
+	text-decoration: none;
+}
+.sasniegumi {
+	font-size: 50px;
+	color: #b08d3e;
+	text-decoration: none;
+}
+.kontakti {
+	font-size: 50px;
+	color: #eebb55;
+	float: right;
+	position: relative;
+	right: 100px;
+	text-decoration: none;
+}
+.sakums:hover {
+	color: #b08d3e;
+}
+.sasniegumi:hover {
+	color: #b08d3e;
+}
+.kontakti:hover {
+	color: #b08d3e;
+}
+hr {
+	max-width: 1000px;
+	width: 100%;
+	float: left;
+}
+#sakums1 {
+	text-decoration: none;
+	color: #b08d3e;
+}
+#sakums1:hover {
+	color: #b08d3e;
+}
+.footer1 {
+	border: 1px solid #5457a6;
+	text-align: center;
+}
+
+
+#link1 {
+	color: white;
+}
+h2 {
+	margin-left: 20px;
+}
+#skolaimage {
+	max-width: 400px;
+	width: 100%;
+	width: 50vw;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#skolaimage1{
+	max-width: 650px;
+	width: 100%;
+	width: 50vw;
+	float: left;
+	margin-left: 20px;
+}
+#skolaimage3 {
+	float: right;
+	max-width: 300px;
+	width: 100%;
+	width: 20vw;
+}
