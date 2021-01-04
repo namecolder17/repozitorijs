@@ -1,0 +1,2 @@
+# repozitorijs
+Mans pirmais repozitorijs
